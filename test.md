@@ -1,1 +1,3 @@
 -bangcuan
+-pdf.reader
+-roasting
