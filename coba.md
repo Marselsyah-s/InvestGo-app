@@ -1,4 +1,2 @@
 -login
--dashboard
--sign up
--test
+-logout
